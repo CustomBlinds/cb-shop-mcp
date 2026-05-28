@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.customblinds/cb-shop",
+  "name": "io.github.CustomBlinds/cb-shop",
   "title": "Custom Blinds Shop",
   "description": "South Africa's first AI-transactable blinds, shutters and awnings catalogue with live ZAR pricing.",
   "version": "1.0.0",
